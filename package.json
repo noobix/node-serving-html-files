@@ -1,0 +1,17 @@
+{
+  "name": "first-node-work",
+  "version": "1.0.0",
+  "description": "fundermentals of node",
+  "main": "src/index.js",
+  "author": "Kelvin Kabute",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
